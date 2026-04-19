@@ -8,8 +8,9 @@ Performed data cleaning, transformation, and exploratory data analysis to genera
 
 ## 🔧 Tools & Technologies
 - Python (Pandas, NumPy)
+- Data Visualization (Matplotlib, Seaborn)
 - Google Colab
-- Data Analysis Techniques
+- Exploratory Data Analysis (EDA)
 
 ---
 
